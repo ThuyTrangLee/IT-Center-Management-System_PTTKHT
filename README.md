@@ -27,6 +27,7 @@ Chuẩn hóa quy trình vận hành trung tâm: quản lý học viên, khóa h�
 **ERD & Lược đồ quan hệ:** các thực thể tiêu biểu HocVien, KhoaHoc, LopHoc, TKB, LichThi, KQHT, HocPhi, DangKy, TaiLieu, ThongBao,…
 
 **Thiết kế giao diện**: đăng nhập, trang chính, tìm kiếm/ghi danh/cập nhật học viên, quản lý lớp – khóa – tài liệu – lịch – kết quả – lịch thi. 
+
 👉 Để xem chi tiết, mở file: **`Nhom11_QuanLyTrungTamTinHoc_final.docx`**.  
 
 ---
